@@ -3,8 +3,8 @@ Analysis of the HoloFood chicken data using Drakkar
 
 ## Directory structure
 
-genomes/ -> all MAG fasta files
-holofood_remapping.tsv -> sample names and accession numbers to use for analysis
+- genomes/ -> all MAG fasta files
+- holofood_remapping.tsv -> sample names and accession numbers to use for analysis
 
 ## Analysis
 
